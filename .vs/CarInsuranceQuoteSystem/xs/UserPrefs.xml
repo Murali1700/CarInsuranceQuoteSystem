@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5FB95398-3A2E-4D0A-9F0A-64068876D94F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarInsuranceQuoteSystem.Tests/Services/QuoteServiceTest.cs">
+    <Files>
+      <File FileName="CarInsuranceQuoteSystem.Tests/Services/CustomerServiceTest.cs" />
+      <File FileName="CarInsuranceQuoteSystem.Tests/Services/QuoteServiceTest.cs" Line="29" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarInsuranceQuoteSystem" expanded="True">
+            <Node name="CarInsuranceQuoteSystem" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="CarInsuranceQuoteSystem.Tests" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="QuoteServiceTest.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CarInsuranceQuoteSystem.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CarInsuranceQuoteSystem PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
